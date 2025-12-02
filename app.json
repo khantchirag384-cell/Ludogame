@@ -1,0 +1,12 @@
+{
+  "name": "Ludo Multiplayer",
+  "description": "Multiplayer Ludo Game for Heroku",
+  "repository": "https://github.com/your-username/your-repo",
+  "keywords": ["ludo", "socket", "multiplayer", "nodejs"],
+  "env": {},
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
