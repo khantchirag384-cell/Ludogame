@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  background: #e6e6e6;
+  font-family: Arial;
+}
+
+.game-box {
+  display: inline-block;
+  padding: 15px;
+  background: white;
+  border-radius: 15px;
+}
+
+#diceBtn {
+  padding: 10px 25px;
+  font-size: 18px;
+  margin-top: 15px;
+}
