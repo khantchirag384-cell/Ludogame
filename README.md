@@ -1,1 +1,1 @@
-# Ludogame
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=URL-OF-YOUR-REPO)
